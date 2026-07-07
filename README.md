@@ -1,20 +1,5 @@
 # Furnish-Fusion---Furniture-E-Commerce-web-Applocation-
 
-Perfect! We'll make it look like a repository that recruiters would actually enjoy reading. Each part will be ready to paste directly into your `README.md`.
-
-> **Part 1** covers:
->
-> * Project Banner
-> * Badges
-> * Table of Contents
-> * Project Overview
-> * Key Features
-> * AWS Architecture Overview
-> * Tech Stack
-
----
-
-````markdown
 # 🛋️ Furnish Fusion - Cloud-Based Furniture E-Commerce Platform
 
 <p align="center">
